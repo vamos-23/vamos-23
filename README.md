@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=80&text=Hi,%20I'm%20Adrij%20Samanta%20👋&fontSize=40&fontColor=FF6B35&fontAlign=50&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=30&text=Full-Stack%20Mobile%20Developer&fontSize=18&fontColor=F59E0B&fontAlign=50&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=30&text=Full-Stack%20Mobile%20Developer&fontSize=30&fontColor=F59E0B&fontAlign=50&fontAlignY=60" width="100%"/>
+
+<br/>
 
 <br/>
 
