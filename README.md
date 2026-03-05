@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Adrij Samanta 👋
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=80&text=Hi,%20I'm%20Adrij%20Samanta%20👋&fontSize=40&fontColor=FF6B35&fontAlign=50&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-**Full-Stack Mobile Developer**
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=30&text=Full-Stack%20Mobile%20Developer&fontSize=18&fontColor=F59E0B&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <br/>
 
@@ -52,7 +52,7 @@
 
 - **System Design** — Rate Limiting, CDN, Load Balancing, Caching, Message Queues
 - **Core Java** — OOP, Collections, Multithreading → transitioning to **Spring Boot**
-- **DevOps Basics** — ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+- **DevOps Basics** — ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-FF6B35?style=for-the-badge&logo=bull&logoColor=white)
 
 ---
 
@@ -61,7 +61,7 @@
 - **IdeaPilot** — AI-powered platform that suggests and validates ideas, helping users go from vague thoughts to structured concepts
 - **DocuSync** — Containerized backend for async PDF processing & analysis, decouples user-facing APIs from heavy document work using a queue-based architecture
 
-
+---
 
 <div align="center">
 
