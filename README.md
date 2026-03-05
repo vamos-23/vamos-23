@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=80&text=Hi,%20I'm%20Adrij%20Samanta%20👋&fontSize=40&fontColor=FF6B35&fontAlign=50&fontAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=80&text=Hi,%20I'm%20Adrij%20Samanta%20&fontSize=40&fontColor=FF6B35&fontAlign=50&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=30&text=Full-Stack%20Mobile%20Developer&fontSize=30&fontColor=F59E0B&fontAlign=50&fontAlignY=60" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=30&text=Full-Stack%20Mobile%20Developer&fontSize=30&fontColor=11d12e&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+mobile+experiences+🚀;React+Native+%7C+Flutter+%7C+Full-Stack;Designing+systems%2C+not+just+features;Exploring+AI+%26+integrating+it+into+apps+🤖;IdeaPilot+💡+%7C+DocuSync+📄+—+in+progress;Scalable+backends+%7C+Clean+architecture;Mobile-first.+Always.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+mobile+experiences+🚀;React+Native+%7C+Flutter+%7C+Full-Stack;Designing+systems%2C+not+just+features;Exploring+AI+%26+integrating+it+into+apps+🤖;IdeaPilot+💡+%7C+DocuSync+📄+—+in+progress;Scalable+backends+%7C+Clean+architecture;Mobile-first.+Always.)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,7 +35,7 @@
 
 **Databases**
 
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools**
@@ -48,6 +46,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+**API Testing**
+
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
 ### 📖 Currently Learning
