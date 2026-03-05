@@ -2,7 +2,7 @@
 
 # Hi, I'm Adrij Samanta 👋
 
-**Mobile & Full-Stack Developer**
+**Full-Stack Mobile Developer**
 
 <br/>
 
