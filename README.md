@@ -56,6 +56,7 @@
 ### 📖 Currently Learning
 
 - **System Design** — Rate Limiting, CDN, Load Balancing, Caching, Message Queues
+- **Artificial Intelligence** — ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 - **DevOps Basics** — ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-FF6B35?style=for-the-badge&logo=bull&logoColor=white)
 
 ---
